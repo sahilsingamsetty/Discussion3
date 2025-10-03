@@ -12,6 +12,8 @@
 		979A40802A63A7E700771947 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 979A407F2A63A7E700771947 /* ContentView.swift */; };
 		979A40822A63A7E800771947 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 979A40812A63A7E800771947 /* Assets.xcassets */; };
 		979A40852A63A7E800771947 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 979A40842A63A7E800771947 /* Preview Assets.xcassets */; };
+		A9BE437F2E8F251700D849F3 /* OskiBirthdayBears750.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A9BE437E2E8F251700D849F3 /* OskiBirthdayBears750.jpg */; };
+		A9BE43812E8F29FB00D849F3 /* oski.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A9BE43802E8F29FB00D849F3 /* oski.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +23,8 @@
 		979A407F2A63A7E700771947 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		979A40812A63A7E800771947 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		979A40842A63A7E800771947 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A9BE437E2E8F251700D849F3 /* OskiBirthdayBears750.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = OskiBirthdayBears750.jpg; sourceTree = "<group>"; };
+		A9BE43802E8F29FB00D849F3 /* oski.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oski.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 		979A407C2A63A7E700771947 /* checklist */ = {
 			isa = PBXGroup;
 			children = (
+				A9BE43802E8F29FB00D849F3 /* oski.jpg */,
+				A9BE437E2E8F251700D849F3 /* OskiBirthdayBears750.jpg */,
 				979A407D2A63A7E700771947 /* checklistApp.swift */,
 				979A407F2A63A7E700771947 /* ContentView.swift */,
 				9742B5B42A76194800318352 /* ViewModel.swift */,
@@ -128,6 +134,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A9BE437F2E8F251700D849F3 /* OskiBirthdayBears750.jpg in Resources */,
+				A9BE43812E8F29FB00D849F3 /* oski.jpg in Resources */,
 				979A40852A63A7E800771947 /* Preview Assets.xcassets in Resources */,
 				979A40822A63A7E800771947 /* Assets.xcassets in Resources */,
 			);
